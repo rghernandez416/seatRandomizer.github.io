@@ -38,8 +38,8 @@ button {
     width: 100%;
     height: 30px;
     border-style: hidden;
-    background-image: linear-gradient(to bottom right,rgb(101, 162, 254), rgb(66, 141, 255), rgb(101, 162, 254));
+    background-image: linear-gradient(to bottom right,rgb(101, 162, 254), rgb(42, 127, 255), rgb(101, 162, 254));
     border-width: 0.5px;
     border-radius: 10px;
-    
+    color: whitesmoke
 }
