@@ -10,7 +10,7 @@ body {
    font-family: "mickey", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
       "Lucida Sans", Arial, sans-serifsz;
 
-   background-image: url("./images/mickeybackground.jpg");
+   background-image: url("../images/mickeybackground.jpg");
    background-repeat: inherit;
 }
 
