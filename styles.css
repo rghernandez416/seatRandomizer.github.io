@@ -3,10 +3,10 @@
    src: url("./fonts/wicked-mouse-font/WickedMouse-aGoK.ttf");
 }
 
-body {
+/* body {
    font-family: "mickey", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-      "Lucida Sans", Arial, sans-serif;
-}
+      "Lucida Sans", Arial, sans-serifsz;
+} */
 
 #main-body {
    width: 20em;
