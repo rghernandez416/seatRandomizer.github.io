@@ -1,7 +1,7 @@
 @font-face {
    font-family: "mickey";
    src: url("./fonts/wicked-mouse-font/WickedMouse-aGoK.ttf") format("truetype"),
-      url("./fonts/wicked-mouse-font/WickedMouse-aGoK.svg") format("svg");
+      url("./fonts/wicked-mouse-font/WickedMousex.svg") format("svg");
 }
 
 body {
