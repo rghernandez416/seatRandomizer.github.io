@@ -1,12 +1,13 @@
 @font-face {
    font-family: "mickey";
-   src: url("./fonts/wicked-mouse-font/WickedMouse-aGoK.ttf");
+   src: url("./fonts/wicked-mouse-font/WickedMouse-aGoK.ttf") format("truetype"),
+      url("./fonts/wicked-mouse-font/WickedMouse-aGoK.svg") format("svg");
 }
 
-/* body {
+body {
    font-family: "mickey", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
       "Lucida Sans", Arial, sans-serifsz;
-} */
+}
 
 #main-body {
    width: 20em;
